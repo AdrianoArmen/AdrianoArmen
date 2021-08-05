@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Adriano
+### Hello world 👋, my name is Adriano
 #### I am a full-stack web developer
 I am looking to learn and collaborate on new MERN development projects. I am passionate about front-end technologies and design.
 
